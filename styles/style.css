@@ -1,17 +1,17 @@
 body {
   background-color: #FBF9FA;}
 h1 {
-  font-size: 20;
+  font-size: 20px;
   color: #A80038;
 }
 h2 {
-  font-size: 16;
+  font-size: 16px;
   color: #2B2024;
 }
 ol,
 ul {
     font-size: 16px;
-    color: rgb(30, 60, 210);
+    color: #FD0054;
     padding: 10px;
 }
 
