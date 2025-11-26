@@ -8,13 +8,10 @@ h2 {
   font-size: 16px;
   color: #2B2024;
 }
-p{
-   color: #FBF9FA;
-}
 ol,
 ul {
     font-size: 16px;
-    color: rgb(253, 0, 84);
+    color: #FBF9FA;
     padding: 10px;
 }
 
