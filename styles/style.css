@@ -10,5 +10,13 @@ h2 {
 }
 ol,
 ul {
-    padding: 30;
+    font-size: 16px;
+    color: rgb(30, 60, 210);
+    padding: 10px;
 }
+
+li {
+    font-size: 14px;
+    margin: 10px;
+}
+
